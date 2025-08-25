@@ -48,6 +48,7 @@ Pre-2005 list includes:
 - **Vega** - web scanner (subgraph)
 - **RAFT** Wordlist project
 - **Diggity Tools** - initial discussion, with releases until about 2013
+- **wXf** Web Exploitation Framework (cktricky and crew)
   
 # 2012
 - **Arachni** — _DAST scanner (framework‑aware)_ (project started 2012)
