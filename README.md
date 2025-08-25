@@ -72,7 +72,8 @@ Pre-2005 list includes:
 
 # 2016
 - **Gobuster** — _Content & DNS brute forcing_ — in Kali 
-- **Sublist3r** — _Subdomain enumeration (recon)_ — in Kali 
+- **Sublist3r** — _Subdomain enumeration (recon)_ — in Kali
+- **AuthMatrix** - Burpsuite add on
 
 # 2017
 - **XSStrike** — _Advanced XSS scanner (DAST)_ — in Kali 
@@ -95,6 +96,7 @@ Pre-2005 list includes:
 - **dalfox** — _XSS scanner (DAST)_ — in Kali lists/guides; first releases 2020 
 - **ParamSpider** — _Find URL parameters from archives (recon)_ (tool announced April 2020) 
 - **NodeJsScan / njsscan** — _SAST (Node.js)_ (PyPI initial 2020; njsscan rules powering NodeJsScan)
+- **InQL** - GraphQL tooling
     
 # 2021
 - **KiteRunner (Assetnote)** — _API route bruteforcing / contextual content discovery_ (first public releases April 2021)
