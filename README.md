@@ -6,11 +6,12 @@ Pre-2005 list includes:
 - **Paros Proxy (2004)** (later becomes the ZAP proxy)
 - **Charles Proxy** (2002)
 - **GHDB (Google Dorking Database** (2004)
+- **WebInspect** (2002)
 
 # 2005
 - **Burp Suite** — _Intercepting proxy + DAST scanner_ (Kali includes Burp Community) 
 - **Acunetix Web Vulnerability Scanner (now Invicti)** — _Commercial DAST_ 
-- **w3af (Web Application Attack and Audit Framework)
+- **w3af** (Web Application Attack and Audit Framework)
 - **Grendel-Scan** - OpenSourced Java-based web app scanner
 
 # 2006
@@ -25,24 +26,22 @@ Pre-2005 list includes:
 - **DirBuster** - first hardcore directory fuzzer
 
 # 2008
-- Grendal-Scan - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
-- CeWL - wordlist generator
+- **Grendal-Scan** - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
+- **CeWL** - wordlist generator
 
 # 2009
-- Recon-ng - tool for recon on websites
-- Wappalyzer - tech fingerprinting
+- **Recon-ng** - tool for recon on websites
+- **Wappalyzer** - tech fingerprinting
+- **Netsparker** - Commercial scanner
+- **Qualys Web App Scanner** - Commercial web scanner
 
 # 2010
 - **OWASP ZAP** — _Intercepting proxy + DAST scanner_ — in Kali 
 - **RIPS (open‑source)** — _SAST (PHP)_ (released during Month of PHP Security)
 - **Brakeman** — _SAST (Ruby on Rails)_ (first 1.0 public release Aug 28, 2010) — in Kali
-- Skipfish
-
-# 2010
-- **OWASP ZAP**
-- **Skipfish**
-- **SSLyze (TLS/SSL analyzer)**
-- **FuzzDB**
+- **Skipfish** - Google's web fuzzer
+- **SSLyze (TLS/SSL analyzer)** - ssl scanner
+- **FuzzDB** - formal listing of wordlists
 
 # 2011
 - **WPScan** — _CMS scanner (WordPress)_ — in Kali
@@ -60,7 +59,7 @@ Pre-2005 list includes:
 
 # 2014
 - **dirsearch** — _Content discovery / brute‑forcer_ — in Kali 
-- CMSmap
+- **CMSmap**
 
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping)
@@ -85,10 +84,8 @@ Pre-2005 list includes:
 - **gau (getallurls)** — _Aggregate archived URLs (recon)_ — initial release Oct 2019 
 
 # 2020
-- **ProjectDiscovery nuclei** — _Template‑driven vulnerability scanner (DAST)_ — in Kali (package page); active since 2020 (community articles and early templates)
-- **ProjectDiscovery httpx** — _HTTP probers / tech fingerprinting_ — in Kali (httpx‑toolkit) and official docs 
-- **ProjectDiscovery dnsx** — _DNS toolkit_ (late‑2020 announcement)
-- **feroxbuster** — _Recursive content discovery_ — in Kali [
+- **ProjectDiscovery** - released nuclei, httpx, and dnsx
+- **feroxbuster** — _Recursive content discovery_ — in Kali
 - **dalfox** — _XSS scanner (DAST)_ — in Kali lists/guides; first releases 2020 
 - **ParamSpider** — _Find URL parameters from archives (recon)_ (tool announced April 2020) 
 - **NodeJsScan / njsscan** — _SAST (Node.js)_ (PyPI initial 2020; njsscan rules powering NodeJsScan)
