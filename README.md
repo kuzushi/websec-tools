@@ -61,6 +61,7 @@ Pre-2005 list includes:
 # 2013
 - **Vega** — _GUI DAST + intercepting proxy_ (open source)
 - **XSS Hunt** - Blind xss/oob callback tech
+- **mitmproxy** - cli proxy for programatic testing
 
 # 2014
 - **dirsearch** — _Content discovery / brute‑forcer_ — in Kali 
