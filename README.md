@@ -108,4 +108,8 @@ Pre-2005 list includes:
   
 # 2022
 - **ProjectDiscovery Katana** — _Next‑gen crawler (headless/non‑headless)_ — docs & repo + community guides (late‑2022) 
-- **Semgrep (OSS)** — _Multi‑lang SAST_ (open‑source tool released Feb 2020; 1.0 in Dec 2022; included here for web stacks) 
+- **Semgrep (OSS)** — _Multi‑lang SAST_ (open‑source tool released Feb 2020; 1.0 in Dec 2022; included here for web stacks)
+
+# 2023
+- **Caido** — next gen mitm proxy tooling, competes against burp 
+
