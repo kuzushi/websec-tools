@@ -60,6 +60,7 @@ Pre-2005 list includes:
   
 # 2013
 - **Vega** — _GUI DAST + intercepting proxy_ (open source)
+- **XSS Hunt** - Blind xss/oob callback tech
 
 # 2014
 - **dirsearch** — _Content discovery / brute‑forcer_ — in Kali 
@@ -70,6 +71,7 @@ Pre-2005 list includes:
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping)
 - **Bandit** - Python's security linter (2018 docs refer to 2015 launch)
+- **Burp Collaborator** - out of band detection tooling native to Burp
 
 # 2016
 - **Gobuster** — _Content & DNS brute forcing_ — in Kali 
