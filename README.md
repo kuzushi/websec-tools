@@ -20,6 +20,7 @@ Pre-2005 list includes:
 - **Sonar (later SonarQube)** — _SAST / code quality platform_ (initial work 2006; first public releases 2007) 
 - **Wapiti**
 - **Fierce Domain Scanner 2.0**
+- **BeEF** - Browser Exploitation Framework (started in 06, but more active in 11)
   note: backtrack 1.0 released this year, as well as Core Impact.  Not really web tech specific-- but kinda dope tools.
  
 # 2007
@@ -34,6 +35,7 @@ Pre-2005 list includes:
 - **Wappalyzer** - tech fingerprinting
 - **Netsparker** - Commercial scanner
 - **Qualys Web App Scanner** - Commercial web scanner
+- **sslstrip** - mitm tool which strips https
 
 # 2010
 - **OWASP ZAP** — _Intercepting proxy + DAST scanner_ — in Kali 
@@ -66,6 +68,7 @@ Pre-2005 list includes:
 
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping)
+- **Bandit** - Python's security linter (2018 docs refer to 2015 launch)
 
 # 2016
 - **Gobuster** — _Content & DNS brute forcing_ — in Kali 
@@ -95,6 +98,7 @@ Pre-2005 list includes:
     
 # 2021
 - **KiteRunner (Assetnote)** — _API route bruteforcing / contextual content discovery_ (first public releases April 2021)
+- **skweez** - website crawler + wordlist generator.  extracts high frequency words, similar to CeWL (but in go)
   
 # 2022
 - **ProjectDiscovery Katana** — _Next‑gen crawler (headless/non‑headless)_ — docs & repo + community guides (late‑2022) 
