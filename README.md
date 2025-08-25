@@ -1,27 +1,52 @@
 # A List of WebSec tools by year identified.  They are ungrouped by technologies
 
+Pre-2005 list includes:
+- Nikto (2001)
+- WebScarab (2002)
+- Paros Proxy (2004) (later becomes the ZAP proxy)
+
 # 2005
 - **Burp Suite** — _Intercepting proxy + DAST scanner_ (Kali includes Burp Community) [PortSwigger](https://portswigger.net/blog/burp-through-the-ages?utm_source=chatgpt.com)[Wikipedia](https://en.wikipedia.org/wiki/Burp_Suite?utm_source=chatgpt.com)
 - **Acunetix Web Vulnerability Scanner (now Invicti)** — _Commercial DAST_ [Acunetix+1](https://www.acunetix.com/blog/news/acunetix-web-vulnerability-scanner-combats-google-hacking-attacks/?utm_source=chatgpt.com)
+- **w3af (Web Application Attack and Audit Framework)
+- **Grendel-Scan** - OpenSourced Java-based web app scanner
 
 # 2006
 - **sqlmap** — _SQLi exploitation & DB takeover (DAST / exploit)_ — in Kali [PortSwigger](https://portswigger.net/daily-swig/sqlmap-plans-to-prototype-gui-support?utm_source=chatgpt.com)[GitHub](https://github.com/sqlmapproject/sqlmap/wiki/History?utm_source=chatgpt.com)[Kali Linux](https://www.kali.org/tools/sqlmap/?utm_source=chatgpt.com)
 - **SPIKE PHP Security Audit Tool** — _SAST (PHP)_ [darknet.org.uk](https://www.darknet.org.uk/2006/08/spikesource-spike-php-security-audit-tool/?utm_source=chatgpt.com)
 - **Sonar (later SonarQube)** — _SAST / code quality platform_ (initial work 2006; first public releases 2007) [Wikipedia](https://en.wikipedia.org/wiki/SonarQube?utm_source=chatgpt.com)[SonarSource](https://www.sonarsource.com/products/sonarqube/downloads/historical-downloads/?utm_source=chatgpt.com)
+- **Wapiti**
+- **Fierce Domain Scanner 2.0**
+- * note: backtrack 1.0 released this year, as well as Core Impact.  Not really web tech specific-- but kinda dope tools.
+ 
+# 2007
+- DirBuster
+
+# 2008
+- Grendal-Scan - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
+
+# 2009
+- Recon-ng - tool for recon on websites
+- 
 
 # 2010
 - **OWASP ZAP** — _Intercepting proxy + DAST scanner_ — in Kali [ZAP+1](https://www.zaproxy.org/blog/2020-09-06-zap-is-ten-years-old/?utm_source=chatgpt.com)
 - **RIPS (open‑source)** — _SAST (PHP)_ (released during Month of PHP Security) [SourceForge](https://sourceforge.net/projects/rips-scanner/?utm_source=chatgpt.com)[Wikipedia](https://en.wikipedia.org/wiki/RIPS?utm_source=chatgpt.com)
 - **Brakeman** — _SAST (Ruby on Rails)_ (first 1.0 public release Aug 28, 2010) — in Kali [GitHub](https://github.com/Arachni/arachni?utm_source=chatgpt.com)
+- Skipfish
 
 # 2011
 - **WPScan** — _CMS scanner (WordPress)_ — in Kali [Jetpack](https://jetpack.com/resources/jetpack-acquires-wordpress-vulnerability-database-wpscan/?utm_source=chatgpt.com)
 # 2012
 - **Arachni** — _DAST scanner (framework‑aware)_ (project started 2012) [GitHub](https://github.com/owasp-amass/amass/releases?utm_source=chatgpt.com)
+- Joomscan
+  
 # 2013
 - **Vega** — _GUI DAST + intercepting proxy_ (open source) [subgraph.com](https://subgraph.com/vega/?utm_source=chatgpt.com)[toolwar.com](https://www.toolwar.com/2013/09/vega-web-vulnerability-scanner-tools.html?utm_source=chatgpt.com)
+
 # 2014
 - **dirsearch** — _Content discovery / brute‑forcer_ — in Kali [GitHub](https://github.com/OJ/gobuster/releases?utm_source=chatgpt.com
+
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping) [GitHub](https://github.com/mitmproxy/mitmproxy/releases?utm_source=chatgpt.com)
 
