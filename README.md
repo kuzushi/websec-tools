@@ -13,6 +13,7 @@ Pre-2005 list includes:
 - **Acunetix Web Vulnerability Scanner (now Invicti)** — _Commercial DAST_ 
 - **w3af** (Web Application Attack and Audit Framework)
 - **Grendel-Scan** - OpenSourced Java-based web app scanner
+- **DIRB** The original wordlist fuzzer
 
 # 2006
 - **sqlmap** — _SQLi exploitation & DB takeover (DAST / exploit)_ — in Kali
@@ -24,7 +25,7 @@ Pre-2005 list includes:
   note: backtrack 1.0 released this year, as well as Core Impact.  Not really web tech specific-- but kinda dope tools.
  
 # 2007
-- **DirBuster** - first hardcore directory fuzzer
+- **DirBuster** - replacement version of DIRB (2005) popularlized by preset wordlists and GUI
 
 # 2008
 - **Grendal-Scan** - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
