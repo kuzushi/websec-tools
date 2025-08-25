@@ -59,7 +59,9 @@ Pre-2005 list includes:
 
 # 2014
 - **dirsearch** — _Content discovery / brute‑forcer_ — in Kali 
-- **CMSmap**
+- **CMSmap** - multi-cms scanner
+- **EyeWitness** - screenshotting for quick recon
+- **testssl.sh** - SSL/TLS tester
 
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping)
