@@ -8,7 +8,8 @@ There are obvious problems with these definitions, however, because it feels pre
   3. the tool represents something significant for a contribution-- like say BeEF framework.
   4. the tool has some level of popularity, like... people actually used it somewhere for something real.  see point 1
   5. I am not really tracking revisions of major tools, though it is somewhat unfair not to given some releases were quite innovative.
-  6. Many/Most of these tools showed up on a major distro like SecTools or Kali. Some were referenced from blogs, especially related to bug bounty.
+  6. Many/Most of these tools showed up on a major distro like SecTools or Kali. Some were referenced from blogs, especially related to bug. bounty.
+  7. The tool could be dynamic analysis, or static analysis. Only the more popular SAST for web were included (like, specific to framework brakeman, or RIPS).  I also added Semgrep because basically everyone who is cool uses it.
 
 Pre-2005 list includes:
 - **Nikto** (2001)
