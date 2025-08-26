@@ -1,4 +1,14 @@
-# A List of WebSec tools by year identified.  They are ungrouped by technologies
+# A List of WebSec tools by year identified.
+
+The below represents a list of what I am loosely calling _major_ or _real_ security tooling that was created entirely for web security.
+There are obvious problems with these definitions, however, because it feels pretty subjective (spoiler: it is).  Here is how I chose things for inclusion--  and what I am looking for to make sure I didn't miss something important:
+  1. the tool is actually a tool and not someone's pet science project that was shown once and forgotten about forever.
+  2. the tool is _directly_ used in web security. obviously there are more things you can do on engagements (like infrastructure checks)-- but for the sake of this list I am ignoring those.
+    - First because it blends the netsec space into websec, and second because it isn't useful for this particular list.
+  3. the tool represents something significant for a contribution-- like say BeEF framework.
+  4. the tool has some level of popularity, like... people actually used it somewhere for something real.  see point 1
+  5. I am not really tracking revisions of major tools, though it is somewhat unfair not to given some releases were quite innovative.
+  6. Many/Most of these tools showed up on a major distro like SecTools or Kali. Some were referenced from blogs, especially related to bug bounty.
 
 Pre-2005 list includes:
 - **Nikto** (2001)
