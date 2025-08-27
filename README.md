@@ -16,8 +16,10 @@ Pre-2005 list includes:
 - **WebScarab** (2002)
 - **Paros Proxy (2004)** (later becomes the ZAP proxy)
 - **Charles Proxy** (2002)
+- **Fiddler Proxy** (2003)
 - **GHDB (Google Dorking Database** (2004)
 - **WebInspect** (2002)
+- **THC-Hydra** Brute force tool. Netsec uses too, but used a lot for login forms. In kali and on GitHub (sometime between 1995 and 2003)
 
 # 2005
 - **Burp Suite** — _Intercepting proxy + DAST scanner_ (Kali includes Burp Community) 
@@ -25,6 +27,7 @@ Pre-2005 list includes:
 - **w3af** (Web Application Attack and Audit Framework)
 - **Grendel-Scan** - OpenSourced Java-based web app scanner
 - **DIRB** The original wordlist fuzzer
+- **SoapUI** SOAP (Simple Object Access Protocol) test suite - generate requests from WSDL
 
 # 2006
 - **sqlmap** — _SQLi exploitation & DB takeover (DAST / exploit)_ — in Kali
@@ -37,7 +40,8 @@ Pre-2005 list includes:
  
 # 2007
 - **DirBuster** - replacement version of DIRB (2005) popularlized by preset wordlists and GUI
-
+- **wfuzz** - Web fuzzing tool. v1.1 available in 2007 on wayback machine but may be earlier
+- 
 # 2008
 - **Grendal-Scan** - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
 - **CeWL** - wordlist generator
@@ -66,7 +70,7 @@ Pre-2005 list includes:
   
 # 2012
 - **Arachni** — _DAST scanner (framework‑aware)_ (project started 2012)
-- **Joomscan** - scannes joomla stuff
+- **Joomscan** - scanns joomla stuff
 - **IIS-ShortName-Scanner** - exactly what it sounds like
   
 # 2013
@@ -79,11 +83,14 @@ Pre-2005 list includes:
 - **CMSmap** - multi-cms scanner
 - **EyeWitness** - screenshotting for quick recon
 - **testssl.sh** - SSL/TLS tester
+- **sslscan** - python SSL/TLS tester - (have memories of using in 2013 but can't prove)
+- **droopescan** - scans drupal stuff (possibly older)
 
 # 2015
 - **Aquatone** — _HTTP screenshotting & reconnaissance_ (commonly used for web attack surface mapping)
 - **Bandit** - Python's security linter (2018 docs refer to 2015 launch)
 - **Burp Collaborator** - out of band detection tooling native to Burp
+- **ysoserial** - Deserialization payload library.
 
 # 2016
 - **Gobuster** — _Content & DNS brute forcing_ — in Kali 
