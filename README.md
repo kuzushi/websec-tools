@@ -41,7 +41,7 @@ Pre-2005 list includes:
 # 2007
 - **DirBuster** - replacement version of DIRB (2005) popularlized by preset wordlists and GUI
 - **wfuzz** - Web fuzzing tool. v1.1 available in 2007 on wayback machine but may be earlier
-- 
+
 # 2008
 - **Grendal-Scan** - DASK web app scanner (manual-testing helpers)  released with samurai-wtf
 - **CeWL** - wordlist generator
